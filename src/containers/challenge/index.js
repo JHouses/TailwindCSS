@@ -16,7 +16,7 @@ const Challenge = () => {
   return (
     <div className={MAIN_CONTAINER}>
       <Title>
-        Bienvenidos al reto 🍕 Pizzita 🍕
+        Bienvenidos al reto 🍕 x 1 Pizzita 🍕
       </Title>
 
       <div className={CONTAINER_BACKGROUND}>
